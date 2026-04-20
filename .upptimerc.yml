@@ -3,6 +3,6 @@ repo: upptime-vps
 
 sites:
   - name: svc-1
-    url: https://adriy.be
+    url: $URL_ADRIYBE
   - name: svc-2
     url: https://google.com
