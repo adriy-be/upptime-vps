@@ -13,10 +13,11 @@
     "time": 493,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 473,
+    "timeMonth": 457,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2026-05-24": 54,
+      "2026-05-25": 55,
+      "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -65,9 +66,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 177,
-    "timeWeek": 164,
-    "timeMonth": 181,
+    "timeDay": 160,
+    "timeWeek": 167,
+    "timeMonth": 176,
     "timeYear": 178,
     "dailyMinutesDown": {}
   }
